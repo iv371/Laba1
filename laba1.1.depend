@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635423685 source:d:\c++\laba1.1\main.c
+	<stdio.h>
+	<stdio.h>
+	<locale.h>
+
